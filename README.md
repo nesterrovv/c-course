@@ -7,6 +7,6 @@ as well as perform two laboratory work on the following topics:
 1. Image rotation
 1. Memory allocator. 
 
-First lab is uploaded. Read local README file for more information. 
+Both labs are uploaded. Read local README file for more information. 
 
-This repository represents my progress in this course. Will be updated.
+This repository represents my progress in this course. Will be updated in the case of a teacher's verdict that edits are needed. I hope this doesn't happen :)
