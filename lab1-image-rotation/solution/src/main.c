@@ -1,17 +1,9 @@
-#include "../include/struct_of_bmp_file.h"
-#include "../include/bmp_manipulator.h"
-#include "../include/file_manipulator.h"
-#include "../include/rotation_of_image.h"
+#include "struct_of_bmp_file.h"
+#include "bmp_manipulator.h"
+#include "file_manipulator.h"
+#include "rotation_of_image.h"
 #include <stdio.h>
 #include <stdlib.h>
-
-/**
- * Function for freeing memory from image
- * @param image
- */
-void free_image(struct image* image) {
-    free(image -> data);
-}
 
 int main(int argc, char** argv) {
     (void) argc;
