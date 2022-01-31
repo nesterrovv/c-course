@@ -9,4 +9,4 @@ as well as perform two laboratory work on the following topics:
 
 Both labs are uploaded. Read local README file for more information. 
 
-This repository represents my progress in this course. Will be updated in the case of a teacher's verdict that edits are needed. I hope this doesn't happen :)
+This repository represents my progress in this course. Course solution & both lab works are checked by a teacher. My mark for this course is A. That's why I hope these solutions can help you to do your tasks too. Good luck!
