@@ -2,10 +2,18 @@
 // Created by Ivan Nesterov on 12/23/2021.
 //
 
-#include "../include/bmp_manipulator.h"
+#include "bmp_manipulator.h"
 #include "struct_of_bmp_file.h"
 #include <stdio.h>
 #include <stdlib.h>
+
+/**
+ * Function for freeing memory from image
+ * @param image
+ */
+void free_image(struct image* image) {
+    free(image -> data);
+}
 
 /**
  * Function for receiving number of padding bytes
