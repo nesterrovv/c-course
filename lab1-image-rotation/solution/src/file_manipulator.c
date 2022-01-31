@@ -2,7 +2,7 @@
 // Created by Ivan Nesterov on 12/24/2021.
 //
 
-#include "../include/file_manipulator.h"
+#include "file_manipulator.h"
 #include <stdio.h>
 
 /**
