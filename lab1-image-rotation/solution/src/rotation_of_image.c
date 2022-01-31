@@ -2,7 +2,7 @@
 // Created by Ivan Nesterov on 12/27/2021.
 //
 
-#include "../include/rotation_of_image.h"
+#include "rotation_of_image.h"
 #include <stdlib.h>
 
 struct image rotate_image(struct image const rotatable_image) {
